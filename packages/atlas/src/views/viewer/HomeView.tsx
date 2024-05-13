@@ -21,6 +21,7 @@ import { InfiniteLoadingOffsets } from '@/utils/loading.contants'
 export const HomeView: FC = () => {
   const headTags = useHeadTags()
   const { columns, fetchMore, tiles, loading, pageInfo } = useHomeVideos()
+  console.log('fe')
 
   return (
     <VideoContentTemplate>
