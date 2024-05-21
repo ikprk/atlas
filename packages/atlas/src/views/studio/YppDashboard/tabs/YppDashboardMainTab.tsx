@@ -54,7 +54,7 @@ const benefitsMetadata = {
   },
   twitterPost: {
     title: 'Post on X',
-    description: `Follow JoystreamDAO on X and post about why you signed up to ${atlasConfig.general.appName} using hashtag #${atlasConfig.general.appName}Web3Creators mentioning @JoystreamDAO to get a chance of weekly reward.`,
+    description: `Follow JoystreamDAO on X and post about why you signed up to ${atlasConfig.general.appName} using hashtag #${atlasConfig.general.appName}Web3Creators mentioning @JoystreamDAO and your ${atlasConfig.general.appName} Channel Name to get a chance of weekly reward.`,
     reward: '10 USD',
     actionLink: 'https://twitter.com/joystreamdao?lang=en',
     tooltipLink:
